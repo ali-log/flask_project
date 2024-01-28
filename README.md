@@ -29,12 +29,14 @@ source .venv/bin/activate
 
 **3. Install Dependencies**
 pip install -r requirements.txt
+
 **4. Get OpenWeatherMap API Key**
 Visit OpenWeatherMap and sign up to get your API key.
+
 **5. Set Up Environment Variables**
 Create a file named .env in the project root and add your API key:
-# .env
 API_KEY=<Your API Key>
+
 **6. Run the Flask App**
 python server.py
  **Visit To Run on Local Machine**
