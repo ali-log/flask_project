@@ -21,9 +21,10 @@ Make sure you have the following installed on your machine:
 # 1. Clone the Repository
 
 git clone https://github.com/your-username/flask_python_weather_app.git
-cd flask_python_weather_app
-**2. Set Up a Virtual Environment (Optional)**
 
+cd flask_python_weather_app
+
+**2. Set Up a Virtual Environment (Optional)**
 # Create a virtual environment
 python -m venv .venv
 
